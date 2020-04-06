@@ -1,6 +1,6 @@
 # React Native Text Thumbnail
 
-![image]('./assets/img.jpeg')
+<img src="https://raw.githubusercontent.com/devvorld/react-native-text-thumbnail/master/assets/img.jpeg"/>
 
 ### Installation
 
