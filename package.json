@@ -1,6 +1,6 @@
 {
   "name": "react-native-text-thumbnail",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devvorld/react-native-text-thumbnail/issues",
-    "email" : "devvorld@gmail.com"
+    "email": "devvorld@gmail.com"
   },
   "homepage": "https://github.com/devvorld/react-native-text-thumbnail#readme"
 }
