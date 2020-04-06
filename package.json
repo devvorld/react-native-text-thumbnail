@@ -23,7 +23,8 @@
   "author": "devvorld technology",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devvorld/react-native-text-thumbnail/issues"
+    "url": "https://github.com/devvorld/react-native-text-thumbnail/issues",
+    "email" : "devvorld@gmail.com"
   },
   "homepage": "https://github.com/devvorld/react-native-text-thumbnail#readme"
 }
