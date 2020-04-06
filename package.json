@@ -1,0 +1,29 @@
+{
+  "name": "react-native-text-thumbnail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devvorld/react-native-text-thumbnail.git"
+  },
+  "keywords": [
+    "reactnative-text-thumbail",
+    "reactnative-text-image",
+    "reactnative-text-avatar",
+    "avatar text",
+    "thumbnail text",
+    "image text",
+    "react-native",
+    "react-native-component"
+  ],
+  "author": "devvorld technology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devvorld/react-native-text-thumbnail/issues"
+  },
+  "homepage": "https://github.com/devvorld/react-native-text-thumbnail#readme"
+}
